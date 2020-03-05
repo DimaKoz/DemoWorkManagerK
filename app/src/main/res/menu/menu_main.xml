@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.otus.demo.workmanager.MainActivity">
+    <item
+        android:id="@+id/action_simple"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_periodic"
+        android:orderInCategory="100"
+        android:title="@string/action_periodic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_chain"
+        android:orderInCategory="100"
+        android:title="@string/action_chain"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_data"
+        android:orderInCategory="100"
+        android:title="@string/action_data_io"
+        app:showAsAction="never" />
+
+
+</menu>

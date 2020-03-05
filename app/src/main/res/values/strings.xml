@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestWorkManager</string>
+    <string name="action_settings">Простой запуск</string>
+    <string name="action_periodic">Запуск периодических задач</string>
+    <string name="action_chain">Запуск цепочки</string>
+    <string name="action_data_io">Передача/получение данных</string>
+</resources>
